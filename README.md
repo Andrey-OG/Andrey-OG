@@ -5,6 +5,14 @@
 - 📫 How to reach me: https://t.me/PyDrey
 - ⚡ Fun fact: Once I drove 100 kilometers in one bike ride🚴
 
+***
+
+<h3>Connect with me:</h3>
+<a href="https://t.me/PyDrey"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/1024px-Telegram_logo.svg.png?20220101141644" width="40"></a>
+<a href="mailto:wwwfox11@mail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Logo_Gmail_%282015-2020%29.svg/634px-Logo_Gmail_%282015-2020%29.svg.png" width="50"></a>
+
+***
+
 ### 🛠 &nbsp;Tech Stack
 <p>
 <img align="left" src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" />
