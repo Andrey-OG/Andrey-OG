@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on FastAPI App
 - 🌱 I’m currently learning FastAPI
 - 📫 How to reach me: https://t.me/PyDrey
 - ⚡ Fun fact: Once I drove 100 kilometers in one bike ride🚴
