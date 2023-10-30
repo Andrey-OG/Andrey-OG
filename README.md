@@ -14,7 +14,6 @@
 ***
 
 ### 🛠 &nbsp;Tech Stack
-<p>
 <img align="left" src="https://img.shields.io/badge/Python-306998?logo=python&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Django-092e20?logo=django&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/DRF-6B1F22?logo=Restful&logoColor=white" />
@@ -24,4 +23,8 @@
 <img align="left" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/SOLID-5f9ea0?logo=solid&logoColor=white" />
 <img align="left" src="https://img.shields.io/badge/Nginx-009900?logo=nginx&logoColor=white" />
-</p>
+<br>
+
+***
+
+[![Andrey-OG's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Andrey-OG&theme=dark)](https://github.com/Andrey-OG/leetcode-stats)
